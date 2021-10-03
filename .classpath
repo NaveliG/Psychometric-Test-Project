@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_144">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mail_1.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/itextpdf-5.0.6.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jfreechart.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/json-simple.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/liblinear-1.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/liblinear-1.8.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/liblinear-1.92-sources.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/libsvm-1.0.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/libsvm-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/weka-src.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/weka.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
